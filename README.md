@@ -6,6 +6,6 @@
 - [KNN](https://github.com/skyandd/ML/blob/master/MLalgorithms/knn.py)
 - [K-Means](https://github.com/skyandd/ML/blob/master/MLalgorithms/kmeans.py)
 - [PCA](https://github.com/skyandd/ML/blob/master/MLalgorithms/pca.py)
-- [SVM](https://github.com/skyandd/ML/blob/master/MLalgorithms/svm.py)
+- [SVM](https://github.com/skyandd/ML/blob/master/MLalgorithms/svm.py) (linear kernel)
 
 В корне репозитория находятся ноутбуки с кодом запуска алгоритмов и тесторирования на наборе данных
