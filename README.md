@@ -9,4 +9,4 @@
 - [SVM (linear kernel)](https://github.com/skyandd/ML/blob/master/MLalgorithms/svm.py)
 - [DecisionTreeClassifier](https://github.com/skyandd/ML/blob/master/MLalgorithms/decision_tree.py)
 
-В корне репозитория находятся ноутбуки с кодом запуска алгоритмов и тесторирования на наборе данных
+В корне репозитория находятся ноутбуки с кодом запуска и тесторирования на наборе данных
